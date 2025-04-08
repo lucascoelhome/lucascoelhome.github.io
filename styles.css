@@ -1,0 +1,42 @@
+/* Arquivo CSS (styles.css) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f5f8fa;
+    color: #333;
+}
+
+.top-bar {
+    background-color: #1da1f2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.content {
+    padding: 20px;
+    margin: auto;
+    max-width: 800px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+h2 {
+    border-bottom: 2px solid #1da1f2;
+    padding-bottom: 5px;
+    color: #1da1f2;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555;
+}
